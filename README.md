@@ -1,6 +1,6 @@
 # NetDB-IDS: Network + Database Intrusion Detection System
 
-NetDB-IDS is a cybersecurity portfolio project that detects attacks by correlating network telemetry with database query behavior. It is designed to show practical blue-team engineering, network security awareness, database internals knowledge, and applied machine learning in one runnable demo.
+NetDB-IDS is a cybersecurity  project that detects attacks by correlating network telemetry with database query behavior. It is designed to show practical blue-team engineering, network security awareness, database internals knowledge, and applied machine learning in one runnable demo.
 
 The project runs locally with free tools and Python libraries. It simulates Zeek-style flow logs, Suricata-style IDS alerts, suspicious SQL activity, anomaly scoring, cross-layer correlation, and a live SOC dashboard.
 
